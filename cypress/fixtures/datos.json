@@ -1,0 +1,16 @@
+{
+    "usuario": {
+        "usuario": "pushingit",
+        "contraseña": "123456!"
+    },
+
+    "productos": {
+        "BlackTShirt": "Black T-Shirt",
+        "WhitePants": "White Pants"
+    },
+
+    "precios": {
+        "BlackTShirt": 15,
+        "WhitePants": 20
+    }
+}
