@@ -12,5 +12,11 @@
     "precios": {
         "BlackTShirt": 15,
         "WhitePants": 20
-    }
+    },
+
+    "checkout": {
+        "nombre": "Ezequiel",
+        "apellido": "Salazar",
+        "cardnumber": "1234567887654321"
+    }   
 }
